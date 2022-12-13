@@ -1,4 +1,4 @@
-                                                   Olá, Eu sou Elias👋
+                                                   Olá, sou Elias👋
 
 
                                               - 🔭 Apaixonado por programação ...
