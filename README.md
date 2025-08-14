@@ -50,14 +50,6 @@
 
 ---
 
-## 📈 Estatísticas
-
-<div align="center">
-  <img align="center" src="https://profile-counter.glitch.me/eliassouza93/count.svg" alt="Visitors Count"/>
-</div>
-
----
-
 ## ⚙️ Repositórios com workflow ativo
 
 ![Build Status](https://img.shields.io/github/actions/workflow/status/eliassouza93/knex/build.yml)  
