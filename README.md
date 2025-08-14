@@ -50,6 +50,22 @@
 
 ---
 
+## 🎯 Estou estudando:
+
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=339933)  
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=61DAFB)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=F7DF1E)
+
+---
+
+## 📈 Estatísticas
+
+<div align="center">
+  <img align="center" src="https://profile-counter.glitch.me/eliassouza93/count.svg" alt="Visitors Count"/>
+</div>
+
+---
+
 ## ⚙️ Repositórios com workflow ativo
 
 ![Build Status](https://img.shields.io/github/actions/workflow/status/eliassouza93/knex/build.yml)  
