@@ -18,8 +18,8 @@
 <a href="*" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
 
-![Build Status](https://img.shields.io/github/actions/workflow/status/eliassouza93/build.yml)
-![License](https://img.shields.io/github/license/eliassouza93/)
+![Build Status](https://img.shields.io/github/actions/workflow/status/eliassouza93/knex/build.yml)
+![License](https://img.shields.io/github/license/eliassouza93/knex)
 
  
 ### Main skills:
