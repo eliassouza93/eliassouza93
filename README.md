@@ -1,13 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2ecc71&height=120&section=header"/>
 
-# Olá, eu sou Elias de Souza! 👋  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Elias+de+Souza;+:%29)](https://git.io/typing-svg)
+# Elias de Souza!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2ecc71&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Elias+de+Souza;+:%29)](https://git.io/typing-svg)
 
 ---
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eliassouza93&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Elias de Souza github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliassouza93&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Top Languages"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eliassouza93&show_icons=true&count_private=true&hide_border=true&title_color=2ecc71&icon_color=2ecc71&text_color=c9d1d9&bg_color=0d1117" alt="Elias de Souza github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliassouza93&layout=compact&hide_border=true&title_color=2ecc71&text_color=2ecc71&bg_color=0d1117" alt="Top Languages"/>
 </div>
 
 <p align="center">
@@ -19,15 +19,15 @@
 ## 🚀 Contatos  
 <div align="center">  
   <a href="https://www.instagram.com/seu_usuario" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/-Instagram-%232ecc71?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/seu_usuario" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-%232ecc71?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:seu_email@exemplo.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/-Email-%232ecc71?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
@@ -50,27 +50,11 @@
 
 ---
 
-## 🎯 Estou estudando:
-
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=339933)  
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=61DAFB)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=F7DF1E)
-
----
-
-## 📈 Estatísticas
-
-<div align="center">
-  <img align="center" src="https://profile-counter.glitch.me/eliassouza93/count.svg" alt="Visitors Count"/>
-</div>
-
----
-
 ## ⚙️ Repositórios com workflow ativo
 
-![Build Status](https://img.shields.io/github/actions/workflow/status/eliassouza93/knex/build.yml)  
-![License](https://img.shields.io/github/license/eliassouza93/knex)
+![Build Status](https://img.shields.io/github/actions/workflow/status/eliassouza93/knex/build.yml?color=2ecc71)  
+![License](https://img.shields.io/github/license/eliassouza93/knex?color=2ecc71)
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2ecc71&height=120&section=footer"/>
