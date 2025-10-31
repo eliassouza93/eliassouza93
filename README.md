@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2ecc71&height=120&section=header"/>
 
 # Elias de Souza
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2ecc71&size=30&center=true&vCenter=true&width=1000&lines=SOFTWARE+DEVELOPER)](https://git.io/typing-svg) 👈 Tamanho Ajustado para 30
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2ecc71&size=30&center=true&vCenter=true&width=1000&lines=SOFTWARE+DEVELOPER)](https://git.io/typing-svg)
 
 ---
 
