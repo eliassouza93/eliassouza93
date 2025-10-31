@@ -1,17 +1,17 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2ecc71&height=120&section=header"/>
 
 # Elias de Souza
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2ecc71&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Elias+de+Souza;+SOFTWARE+DEVELOPER;+:%29)](https://git.io/typing-svg) 👈 Título Ajustado para Refletir Carreira
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2ecc71&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Elias+de+Souza;+SOFTWARE+DEVELOPER;+:%29)](https://git.io/typing-svg)
 
 ---
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eliassouza93&show_icons=true&count_private=true&hide_border=true&title_color=2ecc71&icon_color=2ecc71&text_color=c9d1d9&bg_color=0d1117" alt="Elias de Souza github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliassouza93&layout=compact&hide_border=true&title_color=2ecc71&icon_color=2ecc71&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/> 👈 Texto Harmonizado para Branco Claro
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliassouza93&layout=compact&hide_border=true&title_color=2ecc71&icon_color=2ecc71&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eliassouza93&theme=onedark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" /> 👈 **Tema Trocado para ONEDARK** (Melhor Integração com Fundo Escuro)
+  <img src="https://github-profile-trophy.vercel.app/?username=eliassouza93&theme=onedark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -20,14 +20,6 @@
 <div align="center">  
   <a href="https://www.linkedin.com/in/seu_usuario" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-%232ecc71?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:devglobal336@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Email-%232ecc71?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/eliassouza93" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-GitHub-%232ecc71?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
