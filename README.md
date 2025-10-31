@@ -44,7 +44,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-for-the-badge&logo=postgresql&labelColor=0D1117&textColor=4169E1)
 
 ### Ferramentas e DevOps:
-### Ferramentas e DevOps:
 ![VS Code](https://img.shields.io/badge/-VS_Code-0D1117?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117&textColor=007ACC)
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117&textColor=F05032)
 ![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117&textColor=FF6C37)
