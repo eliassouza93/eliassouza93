@@ -20,8 +20,8 @@
 
 ---
 
-## 🚀 Contatos  
-<div align="center">  
+## 🚀 Contato
+<div align="center">
   <a href="https://www.linkedin.com/in/seu_usuario" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-%232ecc71?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
