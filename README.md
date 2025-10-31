@@ -6,8 +6,8 @@
 ---
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eliassouza93&show_icons=true&count_private=true&hide_border=true&title_color=2ecc71&icon_color=2ecc71&text_color=c9d1d9&bg_color=0d1117&theme=buefy&hide_title=true&hide_rank=true&custom_title=Estatísticas" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliassouza93&layout=compact&hide_border=true&title_color=2ecc71&icon_color=2ecc71&text_color=c9d1d9&bg_color=0d1117&theme=buefy&custom_title=Linguagens" alt="Top Languages"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eliassouza93&show_icons=true&count_private=true&hide_border=true&title_color=2ecc71&icon_color=2ecc71&text_color=c9d1d9&bg_color=transparent&theme=buefy&hide_title=true&hide_rank=true&custom_title=Estatísticas" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliassouza93&layout=compact&hide_border=true&title_color=2ecc71&icon_color=2ecc71&text_color=c9d1d9&bg_color=transparent&theme=buefy&custom_title=Linguagens" alt="Top Languages"/>
 </div>
 
 <p align="center">
@@ -31,6 +31,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=3178C6)
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=61DAFB)
+![React Native](https://img.shields.io/badge/-React_Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=61DAFB)
 ![NestJS](https://img.shields.io/badge/-NestJS-0D1117?style=for-the-badge&logo=nestjs&labelColor=0D1117&textColor=E0234E)
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=339933)
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=3776AB)
