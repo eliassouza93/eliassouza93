@@ -6,8 +6,8 @@
 ---
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eliassouza93&show_icons=true&count_private=true&hide_border=true&title_color=2ecc71&icon_color=2ecc71&text_color=c9d1d9&bg_color=0d1117&theme=buefy&hide_title=true&hide_rank=true&custom_title=Estatísticas" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliassouza93&layout=compact&hide_border=true&title_color=2ecc71&icon_color=2ecc71&text_color=c9d1d9&bg_color=0d1117&theme=buefy&custom_title=Linguagens" alt="Top Languages"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eliassouza93&show_icons=true&count_private=true&hide_border=true&title_color=2ecc71&icon_color=2ecc71&text_color=c9d1d9&bg_color=transparent&theme=buefy&hide_title=true&hide_rank=true" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliassouza93&layout=compact&hide_border=true&title_color=2ecc71&icon_color=2ecc71&text_color=c9d1d9&bg_color=transparent&theme=buefy&hide_title=true" alt="Top Languages"/>
 </div>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ---
 
-## 📞 Conecte-se
+## 🔗 Contatos
 <div align="center">  
   <a href="https://www.linkedin.com/in/seu_usuario" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-%232ecc71?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠️ Stack Principal
+## 💻 Tecnologias
 
 ### Linguagens e Frameworks:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=F7DF1E)
@@ -48,6 +48,7 @@
 ![NPM](https://img.shields.io/badge/-NPM-0D1117?style=for-the-badge&logo=npm&labelColor=0D1117&textColor=CB3837)
 ![Yarn](https://img.shields.io/badge/-Yarn-0D1117?style=for-the-badge&logo=yarn&labelColor=0D1117&textColor=2C8EBB)
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&textColor=2496ED)
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117&textColor=FFFFFF)
 
 ---
 
