@@ -29,7 +29,7 @@
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Stack Principal
 
 ### Linguagens e Frameworks:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=F7DF1E)
