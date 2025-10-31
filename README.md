@@ -6,12 +6,12 @@
 ---
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eliassouza93&show_icons=true&count_private=true&hide_border=true&title_color=2ecc71&icon_color=2ecc71&text_color=c9d1d9&bg_color=0d1117&theme=buefy&hide_title=true&hide_rank=true&custom_title=Estatísticas" /> 👈 Usando tema BUEFY para arredondar, mas mantendo a cor de fundo
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eliassouza93&show_icons=true&count_private=true&hide_border=true&title_color=2ecc71&icon_color=2ecc71&text_color=c9d1d9&bg_color=0d1117&theme=buefy&hide_title=true&hide_rank=true&custom_title=Estatísticas" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliassouza93&layout=compact&hide_border=true&title_color=2ecc71&icon_color=2ecc71&text_color=c9d1d9&bg_color=0d1117&theme=buefy&custom_title=Linguagens" alt="Top Languages"/>
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eliassouza93&theme=flat&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" /> 👈 Tema FLAT (Visual mais limpo e sem bordas)
+  <img src="https://github-profile-trophy.vercel.app/?username=eliassouza93&theme=flat&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 ---
