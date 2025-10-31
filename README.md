@@ -29,24 +29,34 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 ### Linguagens e Frameworks:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=F7DF1E)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=3178C6)
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=61DAFB)
+![NestJS](https://img.shields.io/badge/-NestJS-0D1117?style=for-the-badge&logo=nestjs&labelColor=0D1117&textColor=E0234E)
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=339933)
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=3776AB)
-![NestJS](https://img.shields.io/badge/-NestJS-0D1117?style=for-the-badge&logo=nestjs&labelColor=0D1117&textColor=E0234E)
 
-### Ferramentas:
-![VS Code](https://img.shields.io/badge/-VS_Code-0D1117?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117)  
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)  
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)
+### Bancos de Dados:
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=4479A1) 👈 **Movido e Cor de Logo Adicionada**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&textColor=4169E1) 👈 **Sugestão Comum com NestJS/Node.js**
+
+### Ferramentas e DevOps:
+![VS Code](https://img.shields.io/badge/-VS_Code-0D1117?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117&textColor=007ACC)
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117&textColor=F05032)
+![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117&textColor=FF6C37) 👈 **Sugestão (Testes de API)**
+![NPM](https://img.shields.io/badge/-NPM-0D1117?style=for-the-badge&logo=npm&labelColor=0D1117&textColor=CB3837) 👈 **Sugestão (Gerenciamento de Pacotes)**
+![Yarn](https://img.shields.io/badge/-Yarn-0D1117?style=for-the-badge&logo=yarn&labelColor=0D1117&textColor=2C8EBB) 👈 **Sugestão (Alternativa/Complementar ao NPM)**
 
 ---
 
 ## ⚙️ Repositórios com workflow ativo
 
-![Build Status](https://img.shields.io/github/actions/workflow/status/eliassouza93/knex/build.yml?color=2ecc71)  
+![Build Status](https://img.shields.io/github/actions/workflow/status/eliassouza93/knex/build.yml?color=2ecc71)
 ![License](https://img.shields.io/github/license/eliassouza93/knex?color=2ecc71)
+
+---
+
+Você gostaria de adicionar os Bancos de Dados sugeridos (PostgreSQL) e as ferramentas de API/Pacotes (Postman, NPM, Yarn)?
 
 ---
 
