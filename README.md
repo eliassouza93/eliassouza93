@@ -14,7 +14,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=eliassouza93&theme=onedark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
---
+---
 
 ## 🚀 Contatos  
 <div align="center">  
@@ -23,7 +23,7 @@
   </a>
 </div>
 
---
+---
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -39,6 +39,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=4479A1)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-for-the-badge&logo=postgresql&labelColor=0D1117&textColor=4169E1)
 
+### Ferramentas e DevOps:
 ### Ferramentas e DevOps:
 ![VS Code](https://img.shields.io/badge/-VS_Code-0D1117?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117&textColor=007ACC)
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117&textColor=F05032)
