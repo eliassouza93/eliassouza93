@@ -1,22 +1,22 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2ecc71&height=120&section=header"/>
 
 # Elias de Souza
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2ecc71&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Elias+de+Souza;+SOFTWARE+DEVELOPER;+Em+Busca+do+Estado+Perfeito!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2ecc71&size=35&center=true&vCenter=true&width=1000&lines=SOFTWARE+DEVELOPER;+React+%26+NestJS+Specialist;+Focado+em+Soluções+Scaláveis)](https://git.io/typing-svg)
 
 ---
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eliassouza93&show_icons=true&count_private=true&hide_border=true&title_color=2ecc71&icon_color=2ecc71&text_color=c9d1d9&bg_color=transparent" alt="Elias de Souza github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliassouza93&layout=compact&hide_border=true&title_color=2ecc71&icon_color=2ecc71&text_color=c9d1d9&bg_color=transparent" alt="Top Languages"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eliassouza93&show_icons=true&count_private=true&hide_border=true&title_color=2ecc71&icon_color=2ecc71&text_color=c9d1d9&bg_color=0d1117&theme=buefy&hide_title=true&hide_rank=true&custom_title=Estatísticas" /> 👈 Usando tema BUEFY para arredondar, mas mantendo a cor de fundo
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliassouza93&layout=compact&hide_border=true&title_color=2ecc71&icon_color=2ecc71&text_color=c9d1d9&bg_color=0d1117&theme=buefy&custom_title=Linguagens" alt="Top Languages"/>
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eliassouza93&theme=shadow&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" /> 
+  <img src="https://github-profile-trophy.vercel.app/?username=eliassouza93&theme=flat&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" /> 👈 Tema FLAT (Visual mais limpo e sem bordas)
 </p>
 
 ---
 
-## 🚀 Contatos  
+## 📞 Conecte-se
 <div align="center">  
   <a href="https://www.linkedin.com/in/seu_usuario" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-%232ecc71?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Stack Principal
 
 ### Linguagens e Frameworks:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=F7DF1E)
@@ -50,7 +50,7 @@
 
 ---
 
-## ⚙️ Repositórios com workflow ativo
+## ⚙️ Workflow Ativo
 
 ![Build Status](https://img.shields.io/github/actions/workflow/status/eliassouza93/knex/build.yml?color=2ecc71)
 ![License](https://img.shields.io/github/license/eliassouza93/knex?color=2ecc71)
