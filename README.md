@@ -25,7 +25,7 @@
   <img 
     src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" 
     alt="Programmer GIF" 
-    heidht="400" 
+    width="400" 
   />
   
 </div>
