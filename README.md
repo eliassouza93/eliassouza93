@@ -20,7 +20,7 @@
 
 ---
 
-https://camo.githubusercontent.com/dfdc20366decbe5f0d1d74168e59947cf780de488316fb16eb971e0c344cc321/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f373858434642474f6c53366b65593142696c2f67697068792e676966
+ ![Programmer GIF](https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif)
 
 ---
 
