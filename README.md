@@ -21,7 +21,9 @@
 ---
 
 <div align="center">
+ 
   ![Programmer GIF](https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif)
+  
 </div>
 
 ---
