@@ -22,7 +22,11 @@
 
 <div align="center">
  
-  ![Programmer GIF](https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif)
+  <img 
+    src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" 
+    alt="Programmer GIF" 
+    width="400" 
+  />
   
 </div>
 
