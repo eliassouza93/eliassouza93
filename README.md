@@ -40,7 +40,7 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=61DAFB)
 ![NestJS](https://img.shields.io/badge/-NestJS-0D1117?style=for-the-badge&logo=nestjs&labelColor=0D1117&textColor=E0234E)
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=339933)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=3776AB)
 
 ### Bancos de Dados:
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=4479A1)
