@@ -9,7 +9,6 @@
 ---
 
 <div align="center">
-
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eliassouza93&show_icons=true&count_private=true&hide_border=true&title_color=2ecc71&icon_color=2ecc71&text_color=c9d1d9&bg_color=0d1117" alt="Elias de Souza github stats" />
 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliassouza93&layout=compact&hide_border=true&title_color=2ecc71&icon_color=2ecc71&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
@@ -34,19 +33,19 @@
 ## 🛠️ Stack Principal
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nest,nodejs,python" height="45" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nest,nodejs,python" height="50" />
 </p>
 
-## 🛢️ Bancos de Dados
+## 🛢️ Bancos de Dados:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" height="45" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" height="50" />
 </p>
 
-### 🧰 Ferramentas e DevOps
+### Ferramentas e DevOps:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,postman,docker,npm,yarn" height="45" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,postman,insomnia,npm,yarn,docker" height="45" />
 </p>
 
 ---
